@@ -1,2 +1,6 @@
 server:
   port: 3000
+management:
+  endpoints:
+    web:
+      base-path: /
